@@ -1,4 +1,4 @@
-# Project 2 - Gen Ed Course Table
+# Gen Ed Course Table
 
 ## Description
 This React project displays a list of General Education courses in table format based on the Computer Science advising sheet. Users can filter courses by grade and identify discrepancies (missing grades or took-status mismatches).
